@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abel</h1>
 <h3 align="center">A Data science enthusiast</h3>
 
+<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
